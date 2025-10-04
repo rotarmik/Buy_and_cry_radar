@@ -1,0 +1,12 @@
+stanza
+langdetect
+deep-translator
+stop-words
+sentence-transformers
+scikit-learn
+numpy
+langchain
+langchain-openai
+langchain-core
+python-dotenv
+legacy-cgi

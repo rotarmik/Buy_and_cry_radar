@@ -1,0 +1,244 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "ФРС США сохраняет ставки на прежнем уровне, рынки реагируют спокойно",
+      "text": "Федеральная резервная система США на своем последнем заседании решила оставить ключевую процентную ставку без изменений в диапазоне 5.25–5.50%. Председатель ФРС Джером Пауэлл отметил, что инфляция по-прежнему остается выше целевого уровня, но демонстрирует признаки замедления. Рынки отреагировали умеренно положительно: индекс S&P 500 вырос на 0.4%, а доходность 10-летних казначейских облигаций снизилась до 4.1%. Экономисты ожидают, что первое снижение ставок может произойти во второй половине 2024 года, если инфляционное давление продолжит ослабевать. Между тем, данные по занятости остаются устойчивыми, что снижает вероятность резких шагов со стороны регулятора. Инвесторы внимательно следят за публикацией отчета по индексу потребительских цен (CPI), который может повлиять на дальнейшую денежно-кредитную политику. В целом, ФРС стремится сохранить баланс между борьбой с инфляцией и поддержанием экономического роста, избегая резких колебаний на финансовых рынках.",
+      "language": "ru",
+      "source": {
+        "name": "Коммерсантъ",
+        "url": "https://www.kommersant.ru/doc/12345678",
+        "credibility": 0.92
+      },
+      "hotness": 0.87
+    },
+    {
+      "id": 2,
+      "title": "The Fed Holds Rates Steady Amid Inflation Concerns",
+      "text": "The U.S. Federal Reserve has decided to maintain its benchmark interest rate at 5.25%–5.50%, citing persistent but gradually easing inflation pressures. Fed Chair Jerome Powell emphasized that while price stability remains the central bank’s top priority, recent economic data suggests a softening labor market and moderating consumer spending. Financial markets responded with cautious optimism, as the S&P 500 edged higher and Treasury yields declined slightly. Analysts from Goldman Sachs now project the first rate cut could come as early as September 2024, contingent on continued disinflation. The Fed’s dot plot indicates a median expectation of two 25-basis-point cuts this year. Meanwhile, core PCE inflation—the Fed’s preferred gauge—remains above the 2% target, though it has fallen from its 2022 peak. Investors are closely monitoring upcoming CPI and jobs reports for signals of policy shifts. The central bank’s balanced approach aims to avoid triggering a recession while ensuring inflation returns sustainably to target levels.",
+      "language": "en",
+      "source": {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2024-05-01/fed-holds-rates-steady",
+        "credibility": 0.95
+      },
+      "hotness": 0.89
+    },
+    {
+      "id": 3,
+      "title": "La Réserve fédérale maintient les taux d’intérêt inchangés",
+      "text": "La Réserve fédérale américaine a décidé de conserver son taux directeur dans la fourchette de 5,25 % à 5,50 % lors de sa dernière réunion. Le président de la Fed, Jerome Powell, a souligné que l’inflation, bien qu’en baisse, reste supérieure à l’objectif de 2 %. Les marchés financiers ont réagi avec prudence : l’indice S&P 500 a légèrement progressé, tandis que les rendements obligataires ont reculé. Les économistes anticipent désormais une première baisse des taux au second semestre 2024, sous réserve d’une poursuite du ralentissement inflationniste. Les données sur l’emploi restent solides, ce qui limite les pressions pour un assouplissement monétaire immédiat. Les investisseurs surveillent de près les prochains indicateurs macroéconomiques, notamment l’indice des prix à la consommation (IPC). La Fed cherche à maintenir un équilibre délicat entre la maîtrise de l’inflation et le soutien à la croissance économique, évitant ainsi des secousses brutales sur les marchés financiers. Cette stratégie prudente reflète la complexité du contexte économique actuel.",
+      "language": "fr",
+      "source": {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/economie/article/2024/05/01/la-fed-maintient-les-taux",
+        "credibility": 0.91
+      },
+      "hotness": 0.85
+    },
+    {
+      "id": 4,
+      "title": "EZB senkt Leitzins erstmals seit 2019",
+      "text": "Die Europäische Zentralbank (EZB) hat ihren Leitzins erstmals seit 2019 gesenkt – um 25 Basispunkte auf 3,75 %. EZB-Präsidentin Christine Lagarde begründete den Schritt mit nachlassendem Inflationsdruck im Euroraum und einer verlangsamten Wirtschaftstätigkeit. Die Kerninflation liegt nun bei 2,9 %, deutlich unter dem Höchststand von 2022. Finanzmärkte reagierten positiv: Der DAX stieg um 1,2 %, und die Renditen deutscher Staatsanleihen gaben nach. Ökonomen erwarten weitere Zinssenkungen im Laufe des Jahres, sofern die Konjunkturdaten stabil bleiben. Die EZB betont jedoch, dass jede Entscheidung datenbasiert erfolge und keine automatischen Folgemaßnahmen garantiert seien. Unternehmen und Verbraucher könnten von günstigeren Kreditkonditionen profitieren, was die wirtschaftliche Erholung unterstützen dürfte. Gleichzeitig warnt die EZB vor anhaltenden Risiken durch geopolitische Spannungen und Energiepreisschwankungen. Die geldpolitische Wende markiert einen wichtigen Meilenstein in der europäischen Wirtschaftspolitik.",
+      "language": "de",
+      "source": {
+        "name": "Frankfurter Allgemeine Zeitung",
+        "url": "https://www.faz.net/aktuell/wirtschaft/ezb-senkt-zinsen-erstmals-seit-2019-12345678.html",
+        "credibility": 0.93
+      },
+      "hotness": 0.91
+    },
+    {
+      "id": 5,
+      "title": "ЦБ РФ снижает ключевую ставку до 15% на фоне замедления инфляции",
+      "text": "Банк России на заседании 1 мая 2024 года принял решение снизить ключевую ставку на 50 базисных пунктов — до 15%. Глава регулятора Эльвира Набиуллина заявила, что инфляция в стране замедляется быстрее ожиданий и по итогам года может составить около 6%. Это снижение стало первым с начала 2022 года и отражает смягчение монетарной политики на фоне стабилизации экономики. Рубль укрепился на 0.8% к доллару после объявления решения. Аналитики отмечают, что дальнейшие шаги ЦБ будут зависеть от динамики цен, бюджетной политики и внешних санкций. Снижение ставки может стимулировать кредитование и инвестиции, однако сохраняются риски из-за высокой геополитической неопределенности. Рынки отреагировали позитивно: индекс MOEX вырос на 1.2%. Эксперты ожидают, что в течение года ставка может быть снижена еще на 100–150 пунктов при благоприятном сценарии.",
+      "language": "ru",
+      "source": {
+        "name": "Ведомости",
+        "url": "https://www.vedomosti.ru/finance/articles/2024/05/01/cb-rf-snizhaet-stavku",
+        "credibility": 0.89
+      },
+      "hotness": 0.93
+    },
+    {
+      "id": 6,
+      "title": "Bitcoin Surges Past $70,000 on ETF Inflows and Institutional Demand",
+      "text": "Bitcoin has surged above $70,000, driven by strong inflows into spot Bitcoin ETFs and growing institutional adoption. Since their January 2024 launch, U.S.-listed Bitcoin ETFs have attracted over $15 billion in net inflows, according to Farside Investors. Major players like BlackRock and Fidelity continue to report robust demand from both retail and institutional clients. Analysts attribute the rally to macroeconomic optimism, including expectations of Fed rate cuts later this year, which typically boost risk assets. Additionally, the recent Bitcoin halving event in April has historically preceded bull markets due to reduced supply. On-chain metrics show long-term holders are accumulating, signaling confidence in sustained price appreciation. Regulatory clarity in key markets like the U.S. and EU has also bolstered investor sentiment. However, volatility remains high, and some warn of potential short-term corrections. Nonetheless, the cryptocurrency’s market capitalization now exceeds $1.4 trillion, reinforcing its status as a mainstream asset class. Experts advise cautious allocation amid ongoing macroeconomic uncertainties.",
+      "language": "en",
+      "source": {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2024/05/01/bitcoin-surges-past-70000/",
+        "credibility": 0.87
+      },
+      "hotness": 0.95
+    },
+    {
+      "id": 7,
+      "title": "Криптовалютный рынок достиг нового максимума: биткоин превысил $70 000",
+      "text": "Биткоин впервые с ноября 2021 года превысил отметку в $70 000, установив новый исторический максимум. Рост обусловлен массовым притоком средств в биржевые фонды (ETF) на биткоин, одобренные SEC в начале 2024 года. Только за апрель чистый приток в такие фонды составил более $4 млрд. Институциональные инвесторы, включая BlackRock и Fidelity, активно наращивают позиции, рассматривая криптовалюту как инструмент диверсификации портфеля. Кроме того, халвинг биткоина в апреле сократил эмиссию новых монет, что усилило дефицит предложения. Аналитики отмечают, что ожидания смягчения монетарной политики ФРС также способствуют росту рисковых активов. Рыночная капитализация всего крипторынка превысила $2.5 трлн. Однако эксперты предупреждают о высокой волатильности и рекомендуют инвесторам соблюдать осторожность. Тем не менее, текущий ралли подтверждает зрелость рынка и его интеграцию в традиционную финансовую систему.",
+      "language": "ru",
+      "source": {
+        "name": "РБК",
+        "url": "https://www.rbc.ru/crypto/news/2024/05/01/bitcoin-new-high",
+        "credibility": 0.88
+      },
+      "hotness": 0.96
+    },
+    {
+      "id": 8,
+      "title": "Les cryptomonnaies atteignent des sommets historiques avec le Bitcoin à 70 000 $",
+      "text": "Le Bitcoin a franchi la barre symbolique des 70 000 dollars américains, atteignant un nouveau record historique. Cette hausse spectaculaire est alimentée par les flux massifs vers les fonds négociés en bourse (ETF) sur Bitcoin approuvés par la SEC début 2024. Selon les données de Farside Investors, ces ETF ont attiré plus de 15 milliards de dollars depuis leur lancement. Les investisseurs institutionnels, notamment BlackRock et Fidelity, jouent un rôle clé dans cette dynamique en intégrant le Bitcoin dans leurs portefeuilles diversifiés. L’événement de « halving » d’avril, qui réduit de moitié la récompense des mineurs, a également contribué à la raréfaction de l’offre. Par ailleurs, les anticipations de baisses de taux par la Réserve fédérale soutiennent les actifs risqués. La capitalisation totale du marché des cryptomonnaies dépasse désormais 2 500 milliards de dollars. Malgré cette euphorie, les analystes mettent en garde contre la volatilité persistante et conseillent une allocation prudente. Ce rallye marque une étape importante dans la reconnaissance institutionnelle des actifs numériques.",
+      "language": "fr",
+      "source": {
+        "name": "Les Échos",
+        "url": "https://www.lesechos.fr/finance-marches/bitcoin-depasse-70000-dollars-1234567",
+        "credibility": 0.90
+      },
+      "hotness": 0.94
+    },
+    {
+      "id": 9,
+      "title": "Deutscher Aktienmarkt erreicht Rekordhoch nach EZB-Zinsentscheidung",
+      "text": "Der deutsche Aktienmarkt hat nach der Zinssenkung der Europäischen Zentralbank ein neues Rekordhoch erreicht. Der DAX stieg um 1,8 % und schloss bei 18.500 Punkten – dem höchsten Stand seit seiner Einführung. Die Entscheidung der EZB, den Leitzins auf 3,75 % zu senken, wurde von Anlegern als Signal für eine bevorstehende wirtschaftliche Erholung interpretiert. Besonders stark profitierten Banken- und Technologiewerte, deren Kursentwicklung eng mit den Zinsaussichten verknüpft ist. Analysten von Deutsche Bank prognostizieren weitere Kursgewinne im laufenden Jahr, sofern die Inflation stabil bleibt und die globale Nachfrage nach deutschen Exporten nicht einbricht. Zudem stützt die schwache Euro-Entwicklung die Wettbewerbsfähigkeit deutscher Unternehmen auf internationalen Märkten. Dennoch warnen Experten vor Überhitzungsrisiken und geopolitischen Unsicherheiten, insbesondere im Zusammenhang mit Handelskonflikten und Energiepreisen. Insgesamt signalisiert der Markt jedoch Zuversicht in die geldpolitische Wende der EZB.",
+      "language": "de",
+      "source": {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/finanzen/maerkte/dax-rekord-nach-ezb-zinsentscheidung/12345678.html",
+        "credibility": 0.92
+      },
+      "hotness": 0.88
+    },
+    {
+      "id": 10,
+      "title": "Global Markets Rally as Central Banks Signal Policy Shifts",
+      "text": "Global financial markets rallied this week as major central banks—including the U.S. Federal Reserve, the European Central Bank, and the Bank of England—signaled a potential shift toward monetary easing. The MSCI World Index rose by 2.3%, its best weekly gain since early 2023. Investors interpreted dovish commentary from central bankers as confirmation that the peak of the tightening cycle has passed. Bond yields fell across developed economies, with the U.S. 10-year Treasury yield dropping below 4.1%. Equity sectors most sensitive to interest rates—such as technology and real estate—led the gains. Analysts at JPMorgan note that synchronized policy pivots could support global growth without reigniting inflation. However, risks remain, including persistent wage pressures and geopolitical tensions in Eastern Europe and the Middle East. Market volatility, as measured by the VIX index, declined to a six-month low, reflecting increased investor confidence. Portfolio managers are now adjusting allocations toward cyclical assets, anticipating improved earnings momentum in the second half of 2024.",
+      "language": "en",
+      "source": {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/global-markets-rally-central-banks-2024",
+        "credibility": 0.94
+      },
+      "hotness": 0.90
+    },
+    {
+      "id": 11,
+      "title": "Нефтяные цены стабилизируются на фоне сокращения добычи ОПЕК+",
+      "text": "Цены на нефть марки Brent стабилизировались на уровне $85 за баррель после объявления ОПЕК+ о продлении добровольных сокращений добычи до конца 2024 года. Решение было поддержано ключевыми производителями, включая Саудовскую Аравию и Россию, что помогло сбалансировать рынок на фоне слабого спроса в Китае. Аналитики отмечают, что геополитическая напряженность на Ближнем Востоке также поддерживает котировки, несмотря на усилия США по увеличению стратегических запасов. Для российского бюджета текущие цены обеспечивают профицит, что снижает давление на рубль. В то же время, рост добычи в США и Бразилии может ограничить дальнейший рост цен. Энергетические компании пересматривают инвестиционные планы в сторону умеренного расширения. В долгосрочной перспективе переход к возобновляемым источникам энергии продолжает оказывать давление на нефтяной сектор, однако в ближайшие годы углеводороды останутся ключевым элементом мировой экономики.",
+      "language": "ru",
+      "source": {
+        "name": "Интерфакс",
+        "url": "https://www.interfax.ru/business/987654321",
+        "credibility": 0.86
+      },
+      "hotness": 0.78
+    },
+    {
+      "id": 12,
+      "title": "Gold Prices Hit 12-Month High Amid Safe-Haven Demand",
+      "text": "Gold prices have reached a 12-month high of $2,100 per ounce, driven by heightened safe-haven demand amid geopolitical tensions and expectations of looser monetary policy. Investors are increasingly turning to gold as a hedge against inflation and currency volatility, particularly with the U.S. dollar showing signs of weakness. Central bank purchases, especially from China and India, have also supported the rally. According to the World Gold Council, global central banks bought over 1,000 tonnes of gold in 2023, and the trend continues into 2024. ETF holdings, which had declined in 2022–2023, are now stabilizing, indicating renewed retail and institutional interest. Analysts at UBS forecast gold could test $2,200 by year-end if rate cuts materialize as expected. However, a stronger-than-anticipated U.S. economic rebound could cap gains. For now, gold remains a cornerstone of diversified portfolios seeking stability in uncertain times.",
+      "language": "en",
+      "source": {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/markets/commodities/gold-hits-12-month-high-2024-05-01/",
+        "credibility": 0.93
+      },
+      "hotness": 0.82
+    },
+    {
+      "id": 13,
+      "title": "Российские банки наращивают кредитование малого бизнеса",
+      "text": "Крупнейшие российские банки значительно увеличили объемы кредитования малого и среднего бизнеса в первом квартале 2024 года. По данным ЦБ РФ, портфель таких кредитов вырос на 12% по сравнению с аналогичным периодом прошлого года. Программы льготного финансирования, поддерживаемые государством, сыграли ключевую роль: ставки по кредитам в рамках господдержки не превышают 8–10% годовых. Сбербанк и ВТБ сообщили о рекордном спросе на оборотные средства и инвестиционные займы. Эксперты связывают рост с улучшением делового климата и адаптацией бизнеса к новым экономическим условиям. Однако остаются риски, связанные с высокой ключевой ставкой и санкционным давлением. Тем не менее, МСБ демонстрирует устойчивость и вкладывает средства в модернизацию и цифровизацию. Регулятор планирует расширить меры поддержки, включая гарантии по кредитам и субсидирование процентных ставок, что может ускорить восстановление сектора.",
+      "language": "ru",
+      "source": {
+        "name": "ТАСС",
+        "url": "https://tass.ru/ekonomika/12345678",
+        "credibility": 0.85
+      },
+      "hotness": 0.75
+    },
+    {
+      "id": 14,
+      "title": "Die Inflation im Euroraum sinkt auf 2,6 % – EZB bleibt vorsichtig",
+      "text": "Die jährliche Inflationsrate im Euroraum ist im April auf 2,6 % gesunken, wie Eurostat mitteilte. Damit nähert sich die Inflation dem Zielwert der Europäischen Zentralbank von 2 %. Die Kerninflation, die volatile Energie- und Nahrungsmittelpreise ausschließt, lag bei 2,9 %. EZB-Präsidentin Christine Lagarde betonte, dass trotz der positiven Entwicklung weiterhin Vorsicht geboten sei. Die jüngste Zinssenkung sei kein Signal für eine Serie automatischer Lockerungen, sondern eine datenbasierte Einzelentscheidung. Ökonomen erwarten, dass die Inflation im zweiten Halbjahr weiter sinken wird, was Raum für weitere geldpolitische Maßnahmen schafft. Gleichzeitig warnen Experten vor anhaltenden Lohn-Preis-Spiralen in einigen Mitgliedsländern. Die Verbraucherstimmung verbessert sich langsam, was die Binnenkonjunktur stützen könnte. Insgesamt signalisiert die EZB eine vorsichtige Normalisierung der Geldpolitik, ohne die Inflationsbekämpfung aus den Augen zu verlieren.",
+      "language": "de",
+      "source": {
+        "name": "Deutsche Welle",
+        "url": "https://www.dw.com/de/inflation-euroraum-april-2024/a-12345678",
+        "credibility": 0.91
+      },
+      "hotness": 0.80
+    },
+    {
+      "id": 15,
+      "title": "Финансовые технологии в России: рост инвестиций в финтех-стартапы",
+      "text": "Инвестиции в российские финтех-стартапы в первом квартале 2024 года выросли на 35% по сравнению с прошлым годом, несмотря на сложную макроэкономическую обстановку. Основными направлениями стали платежные решения, цифровые банки и технологии для малого бизнеса. Ведущие венчурные фонды, такие как Finventure и Baring Vostok, активно вкладывают средства в перспективные проекты. Регулятор также поддерживает развитие сектора: ЦБ РФ запустил «песочницу» для тестирования инновационных финансовых продуктов. Эксперты отмечают, что спрос на удобные и безопасные цифровые сервисы продолжает расти среди населения и бизнеса. Особенно популярны решения в области кибербезопасности и анализа больших данных. Однако остаются вызовы: дефицит квалифицированных кадров и ограничения на международное сотрудничество. Тем не менее, финтех-индустрия демонстрирует устойчивость и потенциал для экспорта технологий в дружественные страны.",
+      "language": "ru",
+      "source": {
+        "name": "Forbes Россия",
+        "url": "https://www.forbes.ru/finance/2024/05/01/fintech-investments-rise",
+        "credibility": 0.87
+      },
+      "hotness": 0.77
+    },
+    {
+      "id": 16,
+      "title": "La Chine intensifie ses achats d’or pour diversifier ses réserves",
+      "text": "La Banque populaire de Chine a intensifié ses achats d’or, augmentant ses réserves officielles pour le 18e mois consécutif. Selon les données publiées début mai, la Chine détient désormais plus de 2 260 tonnes d’or, soit une augmentation de 1,2 % par rapport à mars. Cette stratégie s’inscrit dans un effort plus large visant à réduire la dépendance au dollar américain et à renforcer la stabilité de ses réserves de change. L’or représente désormais près de 5 % des réserves chinoises, un niveau historiquement élevé. Cette tendance est partagée par d’autres grandes économies émergentes, notamment la Russie et l’Inde. Les analystes estiment que cette demande institutionnelle soutient les prix de l’or, qui ont atteint 2 100 dollars l’once. Pékin cherche également à promouvoir le yuan comme monnaie de réserve internationale, et l’or joue un rôle clé dans cette stratégie. Malgré les risques géopolitiques, la Chine semble déterminée à poursuivre cette politique de diversification prudente.",
+      "language": "fr",
+      "source": {
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr/economie/chine-achats-or-reserves-1234567.html",
+        "credibility": 0.89
+      },
+      "hotness": 0.81
+    },
+    {
+      "id": 17,
+      "title": "ФРС США сохраняет ставки: что это значит для глобальных рынков?",
+      "text": "Решение ФРС США оставить ключевую ставку без изменений оказало умеренное влияние на глобальные финансовые рынки. Инвесторы восприняли это как сигнал того, что цикл ужесточения монетарной политики завершен, но регулятор не спешит с ослаблением. Для развивающихся рынков это означает сохранение давления на валюты, так как доллар остается привлекательным активом. Однако ожидания будущих снижений ставок поддерживают аппетит к риску. Российский рынок отреагировал ростом индекса MOEX на 0.7%, что связано с оптимизмом по поводу возможного смягчения глобальной ликвидности. Эксперты отмечают, что действия ФРС традиционно задают тон для других центробанков, включая ЦБ РФ и Банк Англии. В ближайшие месяцы ключевыми драйверами станут данные по инфляции и занятости в США. Пока ФРС придерживается выжидательной позиции, стремясь избежать преждевременных шагов, которые могут подорвать борьбу с инфляцией.",
+      "language": "ru",
+      "source": {
+        "name": "Коммерсантъ",
+        "url": "https://www.kommersant.ru/doc/87654321",
+        "credibility": 0.92
+      },
+      "hotness": 0.84
+    },
+    {
+      "id": 18,
+      "title": "ФРС США: аналитики прогнозируют первое снижение ставок в сентябре",
+      "text": "Ведущие финансовые аналитики, включая экспертов из Goldman Sachs и Morgan Stanley, сходятся во мнении, что Федеральная резервная система США впервые снизит ключевую ставку в сентябре 2024 года. Основанием для такого прогноза служат замедляющаяся инфляция, умеренные данные по занятости и признаки охлаждения потребительского спроса. Последнее заседание ФРС подтвердило готовность регулятора к изменению курса при благоприятной динамике цен. Рынки уже заложили в котировки вероятность снижения на 25 базисных пунктов к осени. Это окажет поддержку как акциям, так и облигациям, особенно в секторах с высокой чувствительностью к ставкам. Однако неопределенность сохраняется из-за возможных геополитических шоков и устойчивости рынка труда. Инвесторам рекомендуется следить за публикацией индекса PCE и отчетами по безработице, которые станут ключевыми триггерами для принятия решений ФРС в ближайшие месяцы.",
+      "language": "ru",
+      "source": {
+        "name": "Ведомости",
+        "url": "https://www.vedomosti.ru/finance/articles/2024/05/01/fed-stavki-prognoz",
+        "credibility": 0.89
+      },
+      "hotness": 0.86
+    },
+    {
+      "id": 19,
+      "title": "The Fed’s Pause: What It Means for Emerging Markets",
+      "text": "The Federal Reserve’s decision to hold interest rates steady has provided temporary relief to emerging markets, which have faced capital outflows and currency depreciation during the tightening cycle. With the U.S. dollar stabilizing and Treasury yields moderating, countries like Brazil, India, and Indonesia are seeing renewed investor interest. However, vulnerabilities remain: high external debt levels and current account deficits could resurface if the Fed delays rate cuts. Analysts at HSBC note that EM central banks may now have more room to cut rates domestically, supporting growth. Russia and Turkey, however, remain outliers due to geopolitical and macroeconomic risks. Overall, the Fed’s pause is a welcome development, but not a panacea. Sustainable recovery in emerging markets will depend on structural reforms, fiscal discipline, and global risk appetite. Investors are advised to adopt a selective approach, favoring countries with strong fundamentals and credible policy frameworks.",
+      "language": "en",
+      "source": {
+        "name": "The Economist",
+        "url": "https://www.economist.com/finance-and-economics/2024/05/01/fed-pause-emerging-markets",
+        "credibility": 0.96
+      },
+      "hotness": 0.83
+    },
+    {
+      "id": 20,
+      "title": "ФРС США сохраняет ставки: реакция рынков и последствия для инвесторов",
+      "text": "Решение ФРС не менять ключевую ставку вызвало смешанную реакцию на мировых рынках. С одной стороны, инвесторы приветствовали сигнал о завершении цикла повышений, с другой — разочарованы отсутствием четких указаний на скорое снижение. Акции технологических компаний выросли, так как их стоимость чувствительна к ставкам, тогда как банковский сектор показал слабую динамику. Облигационный рынок отреагировал снижением доходностей, что указывает на ожидания будущего смягчения. Для российских инвесторов это означает потенциальное ослабление доллара и улучшение условий для притока капитала в развивающиеся рынки. Однако эксперты предупреждают, что геополитические риски и внутренние факторы могут ограничить выгоды. В долгосрочной перспективе действия ФРС будут определять стоимость капитала и доходность активов по всему миру. Инвесторам рекомендуется диверсифицировать портфели и учитывать сценарии как смягчения, так и сохранения высоких ставок.",
+      "language": "ru",
+      "source": {
+        "name": "РБК",
+        "url": "https://www.rbc.ru/finance/2024/05/01/fed-stavki-rynki",
+        "credibility": 0.88
+      },
+      "hotness": 0.85
+    }
+  ]
+}
