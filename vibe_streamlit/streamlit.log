@@ -1,0 +1,51 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/bin/streamlit", line 11, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+         ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/click/core.py", line 1688, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/streamlit/web/cli.py", line 238, in main_run
+    _main_run(target, args, flag_options=kwargs)
+  File "/opt/anaconda3/lib/python3.12/site-packages/streamlit/web/cli.py", line 274, in _main_run
+    bootstrap.run(file, is_hello, args, flag_options)
+  File "/opt/anaconda3/lib/python3.12/site-packages/streamlit/web/bootstrap.py", line 352, in run
+    asyncio.run(run_server())
+  File "/opt/anaconda3/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/streamlit/web/bootstrap.py", line 340, in run_server
+    await server.start()
+  File "/opt/anaconda3/lib/python3.12/site-packages/streamlit/web/server/server.py", line 270, in start
+    start_listening(app)
+  File "/opt/anaconda3/lib/python3.12/site-packages/streamlit/web/server/server.py", line 130, in start_listening
+    start_listening_tcp_socket(http_server)
+  File "/opt/anaconda3/lib/python3.12/site-packages/streamlit/web/server/server.py", line 197, in start_listening_tcp_socket
+    http_server.listen(port, address)
+  File "/opt/anaconda3/lib/python3.12/site-packages/tornado/tcpserver.py", line 183, in listen
+    sockets = bind_sockets(
+              ^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/site-packages/tornado/netutil.py", line 162, in bind_sockets
+    sock.bind(sockaddr)
+PermissionError: [Errno 1] Operation not permitted
