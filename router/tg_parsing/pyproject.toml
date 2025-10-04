@@ -1,0 +1,21 @@
+[project]
+name = "telegram-hot-news-parser"
+version = "0.1.0"
+description = "Hot news detector for Telegram channels"
+authors = [{name = "Hackathon Team"}]
+requires-python = ">=3.10"
+dependencies = [
+    "telethon",
+    "pandas",
+    "python-dateutil",
+    "tenacity",
+    "pydantic",
+    "scikit-learn",
+    "rapidfuzz",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[tool.ruff]
+line-length = 100
