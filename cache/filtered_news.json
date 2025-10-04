@@ -1,0 +1,106 @@
+[
+  {
+    "news": {
+      "title": "BofA Global Research moves Fed rate cut forecast to October from December",
+      "content": "Bank of America (BofA) Global Research has advanced its forecast for the next Federal Reserve interest rate cut from December to October 2025, citing signs of a softening labor market. The U.S. government shutdown has delayed key economic data, complicating the Fed’s decision-making. BofA warns of the risk of “over-easing” monetary policy. Investors now overwhelmingly expect rate cuts in October and December. ",
+      "link": "https://www.reuters.com/business/bofa-global-research-moves-fed-rate-cut-forecast-october-december-2025-10-03/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial as it discusses the Federal Reserve's interest rate policy, a key aspect of monetary policy impacting financial markets. The source, Reuters, is a reputable news agency known for its credibility, and the information provided is plausible and aligns with typical economic analyses concerning interest rates and labor markets. The credibility score is slightly less than 10 due to the inherent uncertainty in economic forecasts."
+    }
+  },
+  {
+    "news": {
+      "title": "Stocks mixed, gold hits record as US government shuts down",
+      "content": "Financial markets saw mixed performance amid the U.S. government shutdown, which has put uncertainty on key economic releases. U.S. stock futures and the dollar dipped, while gold surged to a record high, fueled by growing expectations of a Federal Reserve rate cut. Approximately 750,000 federal workers are furloughed, and the shutdown is estimated to cost the government ~$400 million per day. ",
+      "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-10-01/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news content is related to financial markets, specifically mentioning the impact of a U.S. government shutdown on stocks, gold prices, and economic expectations. Reuters is a reputable source, and the report includes specific financial metrics, such as the cost of the shutdown and market movements, which are likely based on credible data. However, since no specific date is given for the events, it slightly reduces the credibility score."
+    }
+  },
+  {
+    "news": {
+      "title": "Dow, S&P 500 manage record closing highs; Nasdaq falls in volatile session",
+      "content": "In a volatile session, both the Dow Jones and S&P 500 posted record closing highs, while the Nasdaq lagged. The rally was underpinned by rate-cut expectations even as the U.S. government shutdown prolonged. The nonfarm payrolls report for September was not published due to the shutdown, increasing reliance on alternate economic indicators. ",
+      "link": "https://www.reuters.com/world/africa/wall-street-futures-climb-final-session-volatile-week-2025-10-03/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial in nature as it discusses the performance of major stock indices such as the Dow Jones, S&P 500, and Nasdaq. The source, Reuters, is a reputable news agency known for reliable financial reporting. The content mentions specific financial events and economic indicators, contributing to its credibility. However, the credibility score is not a full 10 because the mention of 'rate-cut expectations' and the government shutdown impacts on the market would require further verification from additional sources to confirm the context and implications."
+    }
+  },
+  {
+    "news": {
+      "title": "Wall Street closes with records as tech support offsets labor, shutdown uncertainties",
+      "content": "Wall Street’s main indexes closed at record highs, aided by strength in the tech sector, even as investors weighed weak private labor market data and the ongoing U.S. government shutdown. The Dow rose ~0.17%, the S&P 500 ~0.06%, and Nasdaq ~0.39%. The absence of official employment data increased speculation about timing and magnitude of future rate cuts. ",
+      "link": "https://www.reuters.com/business/sp-500-nasdaq-futures-climb-renewed-rate-cut-optimism-2025-10-02/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial as it discusses the performance of major stock indexes on Wall Street, influenced by the tech sector, labor market data, and the U.S. government shutdown. The source is Reuters, a reputable news agency, which adds to the credibility. The credibility score is slightly short of perfect due to the lack of direct quotes from experts or financial analysts in the content."
+    }
+  },
+  {
+    "news": {
+      "title": "US equity funds see sharp weekly inflows on rate cut hopes",
+      "content": "Investors poured a net $36.41 billion into U.S. equity funds in the week to October 1, driven by renewed expectations of Federal Reserve rate cuts. Large-cap funds were the main beneficiaries, while small- and mid-cap segments saw modest outflows. Bond funds saw some net sales as yields adjusted. ",
+      "link": "https://www.reuters.com/business/us-equity-funds-see-sharp-weekly-inflows-rate-cut-hopes-2025-10-03/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial in nature as it discusses inflows into U.S. equity funds, which are directly related to financial markets. The credibility score is high given that the source is Reuters, a reputable news agency known for financial news coverage. The information about inflows, investor behavior, and expectations regarding Federal Reserve actions is typical of credible financial reporting. However, the specific figure of $36.41 billion, while plausible, cannot be independently verified here, which slightly affects the credibility score."
+    }
+  },
+  {
+    "news": {
+      "title": "Global banking climate alliance folds four years after launch",
+      "content": "The Net-Zero Banking Alliance (NZBA), created to help align banking with climate goals, has disbanded after four years. The collapse followed withdrawals from many key member banks, political pressures, and legal risks. Some institutions may still use the frameworks for climate risk, but the disbandment signals challenges for coordinated green finance in the current geopolitical climate. ",
+      "link": "https://www.ft.com/content/841fb042-4f47-4da6-834e-6afe0c79d5c6",
+      "source": "Financial Times"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news article is financial in nature as it pertains to the banking sector and its alignment with climate goals, which are important aspects of green finance and sustainable investing. The source of the news, Financial Times, is a reputable publication known for its accurate reporting on financial and economic matters. The content discusses the collapse of the Net-Zero Banking Alliance, which is relevant to the banking industry's role in climate change initiatives. The credibility score is high due to the reliability of the source and the specific and plausible details provided in the report."
+    }
+  },
+  {
+    "news": {
+      "title": "Gulf sovereign wealth funds defy lower oil prices to top global investment",
+      "content": "Despite a decline in oil prices, Gulf sovereign wealth funds remained among the world’s most active investors in 2025. In the first nine months, they deployed $56.3 billion, representing ~40 % of global sovereign fund activity. Saudi Arabia’s PIF led with a $55 billion acquisition of Electronic Arts, while other Gulf funds continued diversified investing both domestically and internationally. ",
+      "link": "https://www.ft.com/content/10bd26c4-ebf0-4b27-9a8b-2a8c64ff23cf",
+      "source": "Financial Times"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news article is financial in nature as it discusses investment activities by Gulf sovereign wealth funds, which are significant players in the global financial market. The source, Financial Times, is a reputable and reliable publication known for its coverage of financial and economic news. The information about Gulf sovereign wealth funds' investment activities, despite lower oil prices, is plausible and aligns with their known investment strategies. The mention of specific figures and entities, such as Saudi Arabia's PIF and Electronic Arts, adds to the credibility of the report."
+    }
+  },
+  {
+    "news": {
+      "title": "AI will trigger financial calamity. It'll also remake world.",
+      "content": "This Washington Post piece explores the dual nature of AI: while it could reshape industries and productivity, it also carries systemic financial risks. Complex financing loops among tech firms, high valuations, and self-reinforcing capital flows draw parallels to the dot-com bubble. The article warns of opacity in earnings and potential collapse scenarios, even amid enthusiasm for transformative potential. ",
+      "link": "https://www.washingtonpost.com/business/2025/10/03/ai-will-trigger-financial-calamity-itll-also-remake-world/",
+      "source": "Washington Post"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The article is from a reputable source, the Washington Post, and discusses financial implications of AI, such as systemic risks, high valuations, and potential parallels to the dot-com bubble. The content is relevant to financial markets and economic conditions, making it a credible financial news piece."
+    }
+  }
+]
