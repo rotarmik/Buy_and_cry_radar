@@ -11,18 +11,8 @@ class Formatter:
         """
         Инициализирует Formatter с новостями в формате, полученном от evaluator.
 
-        Args:
-            news (list[dict]): Список новостей в формате:
-                {
-                    "id": int,
-                    "title": str,
-                    "text": str,
-                    "language": "ru",
-                    "source": {"name": str, "url": str, "credibility": float},
-                    "hotness": float
-                }
         """
-        self.news = news
+        self.news = transform_news_json(news)
         self.cache_dir = "cache"
         os.makedirs(self.cache_dir, exist_ok=True)
 
@@ -49,8 +39,6 @@ class Formatter:
 
         return drafts
 
-
-# Функция для преобразования сырых данных (если нужно)
 def transform_news_json(raw_news_list):
     """
     Преобразует список новостей из исходного формата в упрощённый формат.
@@ -81,25 +69,3 @@ def transform_news_json(raw_news_list):
         })
     return transformed
 
-
-# Пример использования (для тестов)
-if __name__ == "__main__":
-    # Пример: загрузка из файла или передача напрямую
-    # raw_news = load_from_file('data/test.json')
-    # news = transform_news_json(raw_news)
-
-    # Заглушка для демонстрации
-    news = [
-        {
-            "id": 1,
-            "title": "Тестовая новость",
-            "text": "Содержание тестовой новости.",
-            "language": "ru",
-            "source": {"name": "Источник", "url": "https://example.com", "credibility": 0.85},
-            "hotness": 0.72
-        }
-    ]
-
-    formatter = Formatter(news)
-    drafts = formatter.run()
-    print("Черновики сохранены в cache/drafts_output.json")
