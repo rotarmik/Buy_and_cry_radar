@@ -1,0 +1,242 @@
+[
+  {
+    "news": {
+      "title": "BofA Global Research moves Fed rate cut forecast to October from December",
+      "content": "Bank of America (BofA) Global Research has advanced its forecast for the next Federal Reserve interest rate cut from December to October 2025, citing signs of a softening labor market. The U.S. government shutdown has delayed key economic data, complicating the Fed’s decision-making. BofA warns of the risk of “over-easing” monetary policy. Investors now overwhelmingly expect rate cuts in October and December. ",
+      "link": "https://www.reuters.com/business/bofa-global-research-moves-fed-rate-cut-forecast-october-december-2025-10-03/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial as it discusses the Federal Reserve's interest rate policy, a key aspect of monetary policy impacting financial markets. The source, Reuters, is a reputable news agency known for its credibility, and the information provided is plausible and aligns with typical economic analyses concerning interest rates and labor markets. The credibility score is slightly less than 10 due to the inherent uncertainty in economic forecasts."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Перенос прогноза по снижению ставки ФРС на более ранний срок (октябрь вместо декабря) является неожиданным шагом, поскольку большинство участников рынка ожидали более позднего изменения в денежно-кредитной политике.",
+        "Материальность для цены/волатильности/ликвидности: Изменение прогнозов по ставкам ФРС может существенно повлиять на волатильность финансовых рынков, особенно на рынке облигаций и валютном рынке, так как процентные ставки напрямую влияют на стоимость заимствования и доходность активов.",
+        "Скорость распространения: Новость от Reuters, одного из ведущих мировых информационных агентств, будет быстро распространена среди инвесторов и аналитиков, что ускорит ее влияние на рынок.",
+        "Широта затрагиваемых активов: Прогноз по ставкам ФРС имеет прямое влияние на государственные облигации США, акции, валюты и косвенное влияние на глобальные рынки, так как изменение политики ФРС может повлиять на денежные потоки и инвестиционные стратегии по всему миру."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность относительно консенсуса: Перенос прогноза на два месяца вперёд (с декабря на октябрь) не вызывает сильного удивления, поскольку ожидания смещения времени изменения ставки часто варьируются в зависимости от новых экономических данных. Это не является радикальным изменением в ожиданиях рынка.",
+        "Материальность для цены/волатильности/ликвидности: Прогнозы от BofA уже учтены многими инвесторами, и, поскольку это всего лишь прогноз на 2025 год, он не оказывает немедленного влияния на текущие рыночные условия или ликвидность.",
+        "Скорость распространения: Хотя новость исходит от крупного источника (Reuters), она не является столь сенсационной, чтобы получить огромное количество репостов или апдейтов, так как это просто изменение в прогнозах, а не в фактической политике.",
+        "Широта затрагиваемых активов: Новость касается в первую очередь лишь ожиданий по ставкам и не имеет прямого влияния на широкий спектр активов в краткосрочной перспективе. Косвенные эффекты на другие активы незначительны из-за долгосрочного характера прогноза."
+      ]
+    },
+    "hotness_score": 5.5
+  },
+  {
+    "news": {
+      "title": "Stocks mixed, gold hits record as US government shuts down",
+      "content": "Financial markets saw mixed performance amid the U.S. government shutdown, which has put uncertainty on key economic releases. U.S. stock futures and the dollar dipped, while gold surged to a record high, fueled by growing expectations of a Federal Reserve rate cut. Approximately 750,000 federal workers are furloughed, and the shutdown is estimated to cost the government ~$400 million per day. ",
+      "link": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-10-01/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news content is related to financial markets, specifically mentioning the impact of a U.S. government shutdown on stocks, gold prices, and economic expectations. Reuters is a reputable source, and the report includes specific financial metrics, such as the cost of the shutdown and market movements, which are likely based on credible data. However, since no specific date is given for the events, it slightly reduces the credibility score."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Закрытие правительства США не всегда ожидается рынком, и его последствия могут быть неожиданными, особенно если оно происходит в момент, когда экономические данные важны для принятия решений Федеральной резервной системой.",
+        "Материальность для цены/волатильности/ликвидности: Рекордный рост цены золота и падение фьючерсов на акции США указывают на значительное влияние на волатильность и ликвидность. Ожидания снижения ставки ФРС могут также привести к дальнейшим изменениям на рынке облигаций и акций.",
+        "Скорость распространения: Источник Reuters указывает на быстрое распространение информации через репосты и обновления, так как данная новость касается глобальных финансовых рынков.",
+        "Широта затрагиваемых активов: Прямое влияние на золото, акции и доллар США, а также косвенные эффекты на облигации и международные рынки, зависящие от экономической политики США и ожиданий по ставкам ФРС."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность относительно консенсуса: Новости о шатдауне правительства США часто обсуждаются и прогнозируются заранее, особенно если политическая ситуация напряжена. Таким образом, эффект от текущего шатдауна может быть уже учтен в ценах активов.",
+        "Материальность для цены/волатильности/ликвидности: Хотя шатдаун может оказывать некоторое влияние на краткосрочную волатильность, его долгосрочное влияние на финансовые рынки, как правило, ограничено, поскольку инвесторы понимают, что шатдауны обычно временные и их последствия для экономики исправимы.",
+        "Скорость распространения: Данная новость исходит от Reuters, но не демонстрирует значительных репостов или обновлений, что указывает на ее ограниченное распространение и слабый интерес со стороны более широкой аудитории.",
+        "Широта затрагиваемых активов: Хотя золото и доллар непосредственно затронуты, большинство других активов, таких как акции, не демонстрируют значительных изменений, что указывает на ограниченные косвенные эффекты."
+      ]
+    },
+    "hotness_score": 6.5
+  },
+  {
+    "news": {
+      "title": "Dow, S&P 500 manage record closing highs; Nasdaq falls in volatile session",
+      "content": "In a volatile session, both the Dow Jones and S&P 500 posted record closing highs, while the Nasdaq lagged. The rally was underpinned by rate-cut expectations even as the U.S. government shutdown prolonged. The nonfarm payrolls report for September was not published due to the shutdown, increasing reliance on alternate economic indicators. ",
+      "link": "https://www.reuters.com/world/africa/wall-street-futures-climb-final-session-volatile-week-2025-10-03/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial in nature as it discusses the performance of major stock indices such as the Dow Jones, S&P 500, and Nasdaq. The source, Reuters, is a reputable news agency known for reliable financial reporting. The content mentions specific financial events and economic indicators, contributing to its credibility. However, the credibility score is not a full 10 because the mention of 'rate-cut expectations' and the government shutdown impacts on the market would require further verification from additional sources to confirm the context and implications."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Достижение рекордных максимумов Dow и S&P 500 на фоне продолжающегося правительственного шатдауна и ожиданий снижения процентных ставок было неожиданным для многих аналитиков, которые могли ожидать более сдержанных результатов.",
+        "Материальность для цены/волатильности/ликвидности: Рекордные закрытия Dow и S&P 500 могут повлиять на уверенность инвесторов и привести к увеличению объемов торгов, в то время как волатильность на Nasdaq указывает на возможное перераспределение активов.",
+        "Скорость распространения: Данная новость от авторитетного источника, такого как Reuters, быстро распространяется среди финансовых кругов, вызывая множество репостов и обсуждений в социальных сетях и на профильных платформах.",
+        "Широта затрагиваемых активов: Новость затрагивает широкий спектр активов, включая акции, облигации (через ожидания изменения ставок), и косвенно влияет на валюты и сырьевые товары, так как изменения на фондовых рынках могут привести к переоценке рисков и корректировке портфелей инвесторов."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность относительно консенсуса: Новости о рекордных максимумах Dow и S&P 500 не являются неожиданными, так как рынок уже учитывал ожидания снижения процентных ставок и продолжение правительственного шатдауна.",
+        "Материальность для цены/волатильности/ликвидности: Данные движения индексов в значительной степени обусловлены уже известными факторами, такими как ожидания по ставкам и шатдаун, и не несут внезапной материальности для изменения рыночной динамики.",
+        "Скорость распространения: Новость опубликована крупным агентством Reuters, но не получила большого количества репостов или обновлений, что свидетельствует о слабом влиянии на информационное поле.",
+        "Широта затрагиваемых активов: Новость в основном сосредоточена на индексах Dow, S&P 500 и Nasdaq, не затрагивая напрямую другие классы активов или международные рынки."
+      ]
+    },
+    "hotness_score": 6.5
+  },
+  {
+    "news": {
+      "title": "Wall Street closes with records as tech support offsets labor, shutdown uncertainties",
+      "content": "Wall Street’s main indexes closed at record highs, aided by strength in the tech sector, even as investors weighed weak private labor market data and the ongoing U.S. government shutdown. The Dow rose ~0.17%, the S&P 500 ~0.06%, and Nasdaq ~0.39%. The absence of official employment data increased speculation about timing and magnitude of future rate cuts. ",
+      "link": "https://www.reuters.com/business/sp-500-nasdaq-futures-climb-renewed-rate-cut-optimism-2025-10-02/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial as it discusses the performance of major stock indexes on Wall Street, influenced by the tech sector, labor market data, and the U.S. government shutdown. The source is Reuters, a reputable news agency, which adds to the credibility. The credibility score is slightly short of perfect due to the lack of direct quotes from experts or financial analysts in the content."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Закрытие на рекордных уровнях произошло на фоне слабых данных по рынку труда и продолжающегося шатдауна правительства, что было неожиданным, учитывая негативные экономические сигналы.",
+        "Материальность для цены/волатильности/ликвидности: Рост основных индексов, таких как Dow, S&P 500 и Nasdaq, несмотря на экономическую неопределенность, указывает на значительное влияние на рыночные настроения и потенциальную волатильность в ближайшем будущем.",
+        "Скорость распространения: Новость от Reuters, одного из ведущих мировых агентств, быстро распространяется через различные финансовые платформы и социальные сети, обеспечивая высокую скорость репостов и обновлений.",
+        "Широта затрагиваемых активов: Укрепление технологического сектора может оказать положительное влияние на широкий спектр активов, связанных с технологическими компаниями, а также на смежные рынки и отрасли, такие как производство оборудования и программного обеспечения."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность относительно консенсуса: Рост индексов на фоне сильного сектора технологий не является неожиданностью, поскольку технический сектор традиционно оказывает позитивное влияние на рынок. Отсутствие официальных данных по занятости и текущий шатдаун также были известны заранее и учтены в прогнозах аналитиков.",
+        "Материальность для цены/волатильности/ликвидности: Небольшой рост индексов (Dow ~0.17%, S&P 500 ~0.06%, Nasdaq ~0.39%) указывает на ограниченное влияние новости на волатильность и ликвидность рынков. Такие изменения не являются значительными для долгосрочных инвесторов.",
+        "Скорость распространения: Данная новость не обладает высокой скоростью распространения, так как она не содержит критических изменений или событий, которые могли бы вызвать массовые репосты и обновления.",
+        "Широта затрагиваемых активов: Новость в основном касается технологического сектора и не оказывает значительного косвенного влияния на другие активы или сектора, что ограничивает её значимость для более широкой аудитории."
+      ]
+    },
+    "hotness_score": 5.0
+  },
+  {
+    "news": {
+      "title": "US equity funds see sharp weekly inflows on rate cut hopes",
+      "content": "Investors poured a net $36.41 billion into U.S. equity funds in the week to October 1, driven by renewed expectations of Federal Reserve rate cuts. Large-cap funds were the main beneficiaries, while small- and mid-cap segments saw modest outflows. Bond funds saw some net sales as yields adjusted. ",
+      "link": "https://www.reuters.com/business/us-equity-funds-see-sharp-weekly-inflows-rate-cut-hopes-2025-10-03/",
+      "source": "Reuters"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news is financial in nature as it discusses inflows into U.S. equity funds, which are directly related to financial markets. The credibility score is high given that the source is Reuters, a reputable news agency known for financial news coverage. The information about inflows, investor behavior, and expectations regarding Federal Reserve actions is typical of credible financial reporting. However, the specific figure of $36.41 billion, while plausible, cannot be independently verified here, which slightly affects the credibility score."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Ожидания снижения процентных ставок со стороны Федеральной Резервной Системы могли быть неожиданными для многих участников рынка, особенно если предыдущие сигналы указывали на продолжение жесткой монетарной политики.",
+        "Материальность для цены/волатильности/ликвидности: Вливание $36.41 миллиардов в акционерные фонды США является значительным по масштабу событием, способным вызвать рост цен на акции и увеличение волатильности. Это также может повлиять на ликвидность рынков за счет перераспределения капитала.",
+        "Скорость распространения: Новость, опубликованная на авторитетной платформе Reuters, имеет высокий потенциал быстрого распространения через репосты, цитирования и аналитику, что усилит её влияние на рыночные ожидания.",
+        "Широта затрагиваемых активов: Прямые эффекты наблюдаются в изменении потоков капитала в крупные акционерные фонды, в то время как косвенные эффекты затрагивают облигационные рынки, где наблюдаются продажи из-за корректировки доходностей. Это может также отразиться на валютах и деривативах, связанных с акциями и облигациями."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность относительно консенсуса: Ожидания снижения процентных ставок Федеральной резервной системой не являются неожиданными, так как обсуждения о возможных сокращениях ставок велись уже некоторое время.",
+        "Материальность для цены/волатильности/ликвидности: Хотя приток средств в акции значителен, это не обязательно приведет к значительным изменениям в ценах или волатильности, так как рынок акций США является достаточно ликвидным и способен поглощать такие объемы без значительных колебаний.",
+        "Скорость распространения: Новость не является уникальной или эксклюзивной, так как она опубликована Reuters и, вероятно, будет широко распространена без значительных изменений или апдейтов. Это снижает её актуальность как горячей новости.",
+        "Широта затрагиваемых активов: Хотя новость напрямую касается фондов акций США, её влияние на другие классы активов, такие как облигации и международные рынки, незначительно. Косвенные эффекты ограничены из-за специфичности рынка США."
+      ]
+    },
+    "hotness_score": 6.5
+  },
+  {
+    "news": {
+      "title": "Global banking climate alliance folds four years after launch",
+      "content": "The Net-Zero Banking Alliance (NZBA), created to help align banking with climate goals, has disbanded after four years. The collapse followed withdrawals from many key member banks, political pressures, and legal risks. Some institutions may still use the frameworks for climate risk, but the disbandment signals challenges for coordinated green finance in the current geopolitical climate. ",
+      "link": "https://www.ft.com/content/841fb042-4f47-4da6-834e-6afe0c79d5c6",
+      "source": "Financial Times"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news article is financial in nature as it pertains to the banking sector and its alignment with climate goals, which are important aspects of green finance and sustainable investing. The source of the news, Financial Times, is a reputable publication known for its accurate reporting on financial and economic matters. The content discusses the collapse of the Net-Zero Banking Alliance, which is relevant to the banking industry's role in climate change initiatives. The credibility score is high due to the reliability of the source and the specific and plausible details provided in the report."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Развал альянса, который должен был способствовать достижению климатических целей, был неожиданным, особенно учитывая глобальные усилия по борьбе с изменением климата.",
+        "Материальность для цены/волатильности/ликвидности: Развал NZBA может повысить волатильность в акциях банков, участвовавших в альянсе, так как инвесторы могут пересматривать свои ожидания в отношении экологической ответственности и рисков.",
+        "Скорость распространения: Новость от такого авторитетного источника, как Financial Times, будет быстро распространяться в финансовых кругах, вызывая множество обсуждений и репостов.",
+        "Широта затрагиваемых активов: Прямые эффекты включают банки-участники, а косвенные эффекты могут затронуть компании, связанные с зелеными технологиями, и государственные облигации стран, поддерживающих экологическую повестку."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность относительно консенсуса: Распад альянса не был неожиданным, так как уже ранее наблюдались признаки нестабильности, такие как выходы ключевых участников и политическое давление. Таким образом, рынок мог уже частично учесть эту информацию.",
+        "Материальность для цены/волатильности/ликвидности: Хотя новость может иметь долгосрочные последствия для зеленого финансирования, немедленного воздействия на цены или волатильность финансовых активов не ожидается. Альянс представлял собой добровольное объединение и не оказывал прямого влияния на рыночные условия.",
+        "Скорость распространения: Публикация в Financial Times может означать определенное распространение новости, но отсутствие срочных апдейтов или широкого обсуждения в других крупных финансовых изданиях указывает на ограниченное внимание к данной теме.",
+        "Широта затрагиваемых активов: Новость непосредственно связана с климатическим финансированием и может иметь ограниченные косвенные эффекты на широкий спектр активов. Краткосрочное влияние на традиционные финансовые рынки маловероятно."
+      ]
+    },
+    "hotness_score": 5.5
+  },
+  {
+    "news": {
+      "title": "Gulf sovereign wealth funds defy lower oil prices to top global investment",
+      "content": "Despite a decline in oil prices, Gulf sovereign wealth funds remained among the world’s most active investors in 2025. In the first nine months, they deployed $56.3 billion, representing ~40 % of global sovereign fund activity. Saudi Arabia’s PIF led with a $55 billion acquisition of Electronic Arts, while other Gulf funds continued diversified investing both domestically and internationally. ",
+      "link": "https://www.ft.com/content/10bd26c4-ebf0-4b27-9a8b-2a8c64ff23cf",
+      "source": "Financial Times"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The news article is financial in nature as it discusses investment activities by Gulf sovereign wealth funds, which are significant players in the global financial market. The source, Financial Times, is a reputable and reliable publication known for its coverage of financial and economic news. The information about Gulf sovereign wealth funds' investment activities, despite lower oil prices, is plausible and aligns with their known investment strategies. The mention of specific figures and entities, such as Saudi Arabia's PIF and Electronic Arts, adds to the credibility of the report."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Вопреки ожиданиям снижения активности из-за падения цен на нефть, фонды суверенного благосостояния стран Персидского залива продолжают активно инвестировать, что может удивить аналитиков и участников рынка.",
+        "Материальность для цены/волатильности/ликвидности: Значительные инвестиции, такие как приобретение Electronic Arts Саудовской Аравией за $55 миллиардов, могут существенно повлиять на стоимость акций компании и вызвать волатильность на рынке высокотехнологичных акций.",
+        "Скорость распространения: Новость опубликована в авторитетном издании Financial Times, что обеспечивает быстрое распространение информации среди инвесторов и аналитиков, увеличивая её влияние.",
+        "Широта затрагиваемых активов: Инвестиции охватывают как местные, так и международные рынки, что может оказать влияние на различные классы активов и сектора экономики, от технологического до нефтяного."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность: Новость не является неожиданной, поскольку участие суверенных фондов Персидского залива в глобальных инвестициях уже давно известно, и их активность продолжает оставаться высокой, несмотря на изменения в ценах на нефть.",
+        "Материальность: Хотя новость касается значительных сумм, она не оказывает непосредственного влияния на текущие цены активов, волатильность или ликвидность, поскольку инвестиционные решения суверенных фондов часто планируются на долгосрочную перспективу и не вызывают мгновенных рыночных колебаний.",
+        "Скорость распространения: Учитывая, что новость опубликована в Financial Times, она может быть замечена в узких кругах финансовых аналитиков и инвесторов, но не будет массово репоститься или обновляться, так как не содержит срочных изменений или сенсационных данных.",
+        "Широта затрагиваемых активов: Новость касается только суверенных фондов и отдельных сделок, таких как приобретение Electronic Arts, и не оказывает широкого влияния на другие классы активов или сектора экономики."
+      ]
+    },
+    "hotness_score": 6.5
+  },
+  {
+    "news": {
+      "title": "AI will trigger financial calamity. It'll also remake world.",
+      "content": "This Washington Post piece explores the dual nature of AI: while it could reshape industries and productivity, it also carries systemic financial risks. Complex financing loops among tech firms, high valuations, and self-reinforcing capital flows draw parallels to the dot-com bubble. The article warns of opacity in earnings and potential collapse scenarios, even amid enthusiasm for transformative potential. ",
+      "link": "https://www.washingtonpost.com/business/2025/10/03/ai-will-trigger-financial-calamity-itll-also-remake-world/",
+      "source": "Washington Post"
+    },
+    "validation": {
+      "is_financial": 1,
+      "credibility_score": 9,
+      "explanation": "The article is from a reputable source, the Washington Post, and discusses financial implications of AI, such as systemic risks, high valuations, and potential parallels to the dot-com bubble. The content is relevant to financial markets and economic conditions, making it a credible financial news piece."
+    },
+    "hotness_arguments": {
+      "positive_arguments": [
+        "Неожиданность относительно консенсуса: Новость о том, что AI может вызвать финансовую катастрофу, идет вразрез с широко распространенным энтузиазмом вокруг технологий и их положительного влияния на производительность и рост.",
+        "Материальность для цены/волатильности/ликвидности: Если опасения о финансовых рисках, связанных с AI, усилятся, это может вызвать значительную волатильность на рынках, особенно в секторах технологий и финансов.",
+        "Скорость распространения: Поскольку новость опубликована в Washington Post, одном из ведущих мировых медиа, она быстро распространяется среди инвесторов и аналитиков, что может вызвать спекуляции и изменения в рыночных настроениях.",
+        "Широта затрагиваемых активов: Новость затрагивает широкий спектр активов, включая акции технологических компаний, индексные фонды, ориентированные на технологический сектор, и даже традиционные финансовые инструменты, что может усилить как прямые, так и косвенные эффекты на рынок."
+      ]
+    },
+    "unhotness_arguments": {
+      "unpositive_arguments": [
+        "Неожиданность относительно консенсуса: Дискуссии о рисках и преимуществах AI уже давно ведутся в финансовых кругах. Сравнения с пузырем доткомов и обсуждение высоких оценок компаний стали частью общего консенсуса среди аналитиков.",
+        "Материальность для цены/волатильности/ликвидности: Статья носит более аналитический характер и не предлагает конкретных новых данных или событий, которые могли бы напрямую повлиять на цены активов или вызвать волатильность.",
+        "Скорость распространения (репосты, зеркала, апдейты): Публикация в авторитетном издании, таком как Washington Post, может вызвать некоторый интерес, однако она не содержит срочной информации, требующей мгновенного распространения или обновлений.",
+        "Широта затрагиваемых активов: Несмотря на упоминание о потенциальных рисках для финансовой системы, статья не фокусируется на конкретных активах или секторах, что ограничивает ее непосредственное влияние на широкий спектр финансовых инструментов."
+      ]
+    },
+    "hotness_score": 5.5
+  }
+]

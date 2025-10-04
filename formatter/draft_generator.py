@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
-#from langchain_core.pydantic_v1 import BaseModel, Field
 from pydantic import BaseModel, Field
+
 load_dotenv()
 
 # Настройки
@@ -29,14 +29,14 @@ class DraftStructure(BaseModel):
     quote: str
 
 # Инициализация LLM через OpenRouter 
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY") # ключ в .env файле
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 if not OPENROUTER_API_KEY:
     raise RuntimeError("Установите OPENROUTER_API_KEY в .env")
 
 llm = ChatOpenAI(
-    model="openai/gpt-4o-mini",  # можно заменить на что-то еще из openrouter
+    model="openai/gpt-4o-mini",
     temperature=0.3,
-    base_url="https://openrouter.ai/api/v1",
+    base_url="https://openrouter.ai/api/v1",  # ← убраны trailing пробелы
     api_key=OPENROUTER_API_KEY,
     max_retries=2,
     timeout=90,
@@ -49,7 +49,7 @@ VALIDATION_PROMPT = ChatPromptTemplate.from_messages([
 ])
 
 DRAFT_PROMPT = ChatPromptTemplate.from_messages([
-    ("system", "Вы — профессиональный журналист. Напишите черновик аналитической заметки на основе подтверждённого события."),
+    ("system", "Вы — профессиональный финансовый журналист. Напишите черновик аналитической заметки на основе подтверждённого события."),
     ("human",
      "Событие: {event_summary}\n\nИсходные новости:\n{news_texts}\n\n"
      "Требуемая структура:\n"
@@ -92,18 +92,16 @@ def cached_llm_call(prompt_template, parser, inputs: Dict[str, str], cache_prefi
 
     cached = load_from_cache(cache_key)
     if cached is not None:
-        #print(f"  ↳ Кэш найден для {cache_prefix}")
         return cached
 
     chain = prompt_template | llm | parser
     result = chain.invoke(inputs)
 
     save_to_cache(cache_key, result)
-    #print(f"  ↳ Новый вызов LLM, сохранено в кэш ({cache_prefix})")
     return result
 
 # Вспомогательные функции
-def group_by_cluster(news_list: List[Dict]) -> Dict[int, List[Dict]]:
+def group_by_cluster(news_list: List[Dict]) -> Dict[Any, List[Dict]]:
     clusters = defaultdict(list)
     for news in news_list:
         clusters[news["cluster_id"]].append(news)
@@ -125,7 +123,7 @@ def aggregate_sources(cluster_news: List[Dict]) -> List[Dict]:
         if key not in seen:
             sources.append({
                 "name": src["name"],
-                "url": src["url"],
+                "url": src["url"].strip(),  # ← убираем пробелы в URL
                 "credibility": src["credibility"]
             })
             seen.add(key)
@@ -144,12 +142,6 @@ class DraftGenerator:
         pass
 
     def generate_drafts(self, news_list: List[Dict]) -> Dict[str, List[Dict]]:
-        """
-        Генерирует черновики новостей на основе кластеризованных новостей.
-        
-        :param news_list: список словарей с новостями, содержащими "cluster_id"
-        :return: {"drafts": [...]}
-        """
         if not news_list:
             return {"drafts": []}
 
@@ -157,27 +149,26 @@ class DraftGenerator:
         drafts = []
 
         for cluster_id, cluster_news in clusters.items():
-            #print(f"\nОбработка кластера {cluster_id} ({len(cluster_news)} новостей)...")
+            # Генерируем ASCII-безопасный ключ из cluster_id
+            cluster_key = hashlib.md5(str(cluster_id).encode("utf-8")).hexdigest()[:12]
 
-            #Формируем тексты для LLM
             news_texts = "\n---\n".join([
                 f"[{n['source']['name']}] {n['title']}\n{n['text']}"
                 for n in cluster_news
             ])
 
-            #Валидация кластера
+            # Валидация кластера
             validation = cached_llm_call(
                 prompt_template=VALIDATION_PROMPT,
                 parser=validation_parser,
                 inputs={"news_texts": news_texts},
-                cache_prefix=f"validate_cluster_{cluster_id}"
+                cache_prefix=f"validate_cluster_{cluster_key}"  # ← безопасный префикс
             )
 
             if not validation.get("is_coherent", False):
-                #print(f"  ✖ Кластер отклонён: {validation.get('reason', '')}")
                 continue
 
-            #Генерация черновика
+            # Генерация черновика
             draft = cached_llm_call(
                 prompt_template=DRAFT_PROMPT,
                 parser=draft_parser,
@@ -185,10 +176,10 @@ class DraftGenerator:
                     "event_summary": f"Кластер {cluster_id}: подтверждённое событие",
                     "news_texts": news_texts
                 },
-                cache_prefix=f"draft_cluster_{cluster_id}"
+                cache_prefix=f"draft_cluster_{cluster_key}"  # ← безопасный префикс
             )
 
-            #Сбор метаданных
+            # Сбор метаданных
             sources = aggregate_sources(cluster_news)
             max_hot = compute_max_hotness(cluster_news)
             entities = extract_entities_from_cluster(cluster_news)
